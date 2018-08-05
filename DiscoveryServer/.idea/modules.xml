@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DiscoveryServer.iml" filepath="$PROJECT_DIR$/DiscoveryServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DiscoveryServer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DiscoveryServer_main.iml" group="DiscoveryServer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DiscoveryServer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DiscoveryServer_test.iml" group="DiscoveryServer" />
+    </modules>
+  </component>
+</project>

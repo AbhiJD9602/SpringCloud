@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RatingService.iml" filepath="$PROJECT_DIR$/RatingService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RatingService_main.iml" filepath="$PROJECT_DIR$/.idea/modules/RatingService_main.iml" group="RatingService" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RatingService_test.iml" filepath="$PROJECT_DIR$/.idea/modules/RatingService_test.iml" group="RatingService" />
+    </modules>
+  </component>
+</project>
