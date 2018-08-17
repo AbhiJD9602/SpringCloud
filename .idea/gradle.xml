@@ -4,9 +4,21 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="disableWrapperSourceDistributionNotification" value="true" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleHome" value="$USER_HOME$/Downloads/gradle-4.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AuthenticationServer" />
+            <option value="$PROJECT_DIR$/BookService" />
+            <option value="$PROJECT_DIR$/ConfigurationServer" />
+            <option value="$PROJECT_DIR$/Discovery" />
+            <option value="$PROJECT_DIR$/Gateway" />
+            <option value="$PROJECT_DIR$/RatingService" />
+          </set>
+        </option>
         <option name="useAutoImport" value="true" />
       </GradleProjectSettings>
     </option>
